@@ -1,2 +1,2 @@
-# KodluyoruzAl-t-rma1
+# KodluyoruzAlistirma1
 Kodluyoruz Alıştırma 1
